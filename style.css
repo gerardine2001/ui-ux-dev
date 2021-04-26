@@ -1,0 +1,82 @@
+  /* .backgraund{
+  background-image: url(./images/program2.jpeg);
+  background-repeat: no-repeat;  
+  background-position:center;
+  background-size: cover;
+  background-attachment: fixed; 
+
+ }   */
+ /* .container{
+margin: 10px;
+text-align: center;
+display: inline-block;
+color: lawngreen;
+
+} */
+.quote{
+    text-align:right;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 100;
+    color :black;
+
+}
+/* .Title{
+    color:blue;
+    text-align: center;
+    font-size: 15px;
+    font-style: oblique;
+    text-decoration: underline; */
+
+/* } */
+.About{
+    color:grey;
+    font-style: oblique;
+    font-size: 10px; 
+    text-align: center;
+
+}
+.pagetitle{
+    color: chocolate;
+    font-size: 40px;
+    font-style: italic;
+    border:1px solid black;
+    text-align: center;
+    
+
+}
+.about-akira{
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+    background-color: dimgrey;
+}
+
+ .paragraph{
+    text-align: center;
+    color:white; 
+    font-size: 20px;
+     background-color: dimgray; 
+}
+.hr{
+    color: purple;
+}
+.outline{
+    text-align: center;
+    color: purple;
+    font-size: 50px;
+    font-style: oblique;
+    padding: 6px 6.5px;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+.row:after{
+    content: " ";
+    display: table;
+    clear: both;
+}
+.column{
+    float:left;
+    width: 33.3%;
+    height: 300px;
+}
